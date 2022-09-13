@@ -1,3 +1,6 @@
 Este es un texto de prueba para la tareas
 
 cambio agregado en el paso 6
+
+
+linea agregada luego de clonar el repo remoto
